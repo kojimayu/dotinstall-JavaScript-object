@@ -12,9 +12,6 @@
   scores[2] = 100;
   console.log(scores); //90
   
-  // scores = 1;
-
-  console.log(scores.length);//3
-  
+  scores = 1;
 
 }

@@ -8,13 +8,6 @@
   // const score3 = 40;
   
   const scores = [80, 90, 40];
+  console.log(scores[1]);
   
-  scores[2] = 100;
-  console.log(scores); //90
-  
-  // scores = 1;
-
-  console.log(scores.length);//3
-  
-
 }

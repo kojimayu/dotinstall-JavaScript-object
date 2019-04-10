@@ -14,7 +14,7 @@
   
   // scores = 1;
 
-  console.log(scores.length);//3
+  console.log(scores.length);
   
 
 }
