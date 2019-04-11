@@ -13,14 +13,8 @@
 
   // }
 
-  // a.forEach(item => {
-  //   console.log(item);
-
-  // })
-
-  a.forEach((item, index) => {
-    console.log(`${index}:${item}`);
-
+  a.forEach(item => {
+    console.log(item);
+    
   })
-
 }
