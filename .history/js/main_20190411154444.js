@@ -3,8 +3,8 @@
 {
   class Player { //親クラス
     constructor(name, score) {
-      this.name = name;
-      this.score = score;
+      this.name;
+      this.score;
     }
     showInfo() {
       console.log(`name: ${this.name} score: ${this.score}`);
