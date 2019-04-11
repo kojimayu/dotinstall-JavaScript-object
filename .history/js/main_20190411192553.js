@@ -1,3 +1,5 @@
+'use strict';
+
 'use strict'
 
 {
@@ -6,10 +8,12 @@
 
   try {
     console.log(a.toUpperCase());
-  } catch (e) {
-    console.log(e.message);
-  }
 
+  } catch (e) {
+    console.log(e.messege);
+    
+  }
+  
   console.log('Finish');
 
 }
