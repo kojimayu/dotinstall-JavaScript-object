@@ -19,7 +19,7 @@
   // player.email = 'taguchi@gmail.com'
   // console.log(player);
   
-  delete player.score;
+  delete.player.score;
   console.log(player);
 
   

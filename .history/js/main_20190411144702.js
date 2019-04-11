@@ -16,12 +16,8 @@
   // player.score = 100;
   // console.log(player);
 
-  // player.email = 'taguchi@gmail.com'
-  // console.log(player);
-  
-  delete player.score;
+  player.email = 'taguchi@gmail.com'
   console.log(player);
-
   
   
 }
