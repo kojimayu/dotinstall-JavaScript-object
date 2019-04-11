@@ -14,7 +14,7 @@
 
     static showVersion() {
       console.log('Player class ver. 1.0');
-
+      
     }
   }
 
@@ -24,7 +24,7 @@
 
   taguchi.showInfo();
   fkoji.showInfo();
-  
-  Player.showVersion();
+
+
 
 }
