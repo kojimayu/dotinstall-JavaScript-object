@@ -12,12 +12,7 @@
 
   // console.log(b);
 
-  // const b = a.map(item => item * 2);
-  // console.log(b);
-
-  const b = a.filter(item => item % 2 === 0);
+  const b = a.map(item => item * 2);
   console.log(b);
-
-
 
 }
