@@ -11,7 +11,7 @@
   // console.log(Object.values(0));
   // console.log(Object.entries(0));
 
-  Object.keys(o).forEach(key => {
+  Object.keys(0).forEach(key => {
     console.log(`${key}: ${o[key]}`);
 
   });
